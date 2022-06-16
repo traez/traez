@@ -4,7 +4,8 @@ Welcome to my GitHub profile.
 I’m attempting a transiton to Tech. A career in Web Deveelopment to be particular.  
 I'm actively building my portfolio, and below are some of the projects I have worked on:  
 
-1) Buhari Tribute Page; Pen created on CodePen.io, as one of freeCodeCamp's Responsive Web Design Projects [https://traez.github.io/buhari-tribute-page/](https://traez.github.io/buhari-tribute-page/ "Buhari Tribute Page") 
+**1) Buhari Tribute Page; Pen created on CodePen.io, as one of freeCodeCamp's Responsive Web Design Projects**  
+[https://traez.github.io/buhari-tribute-page/](https://traez.github.io/buhari-tribute-page/ "Buhari Tribute Page") 
 
 
 <!--
@@ -12,7 +13,7 @@ I'm actively building my portfolio, and below are some of the projects I have wo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m attempting a transiton to Tech. A Web Deveelopment Career in particular.
+- 🔭 I’m 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
