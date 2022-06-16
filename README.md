@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m attempting a transiton to Tech. A career in Web Deveelopment to be particular.
+
+Actively building my portfolio, and below are soem of the projects I have worked on:
+
+
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
