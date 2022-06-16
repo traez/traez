@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile.
-I’m attempting a transiton to Tech. A career in Web Deveelopment to be particular.
+Welcome to my GitHub profile.  
+I’m attempting a transiton to Tech. A career in Web Deveelopment to be particular.  
 I'm actively building my portfolio, and below are some of the projects I have worked on:
 
 
