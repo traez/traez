@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 I’m attempting a transition to Tech. A career in Web Development to be particular.  
 I'm actively building my portfolio, and below are some of the projects I have worked on:  
 
-**1) Buhari Tribute Page; a pen created on CodePen.io as one of freeCodeCamp's Responsive Web Design Projects**  
+**1) Buhari Tribute Page; originally created on CodePen.io as one of freeCodeCamp's Responsive Web Design Projects**  
 [https://traez.github.io/buhari-tribute-page/](https://traez.github.io/buhari-tribute-page/ "Buhari Tribute Page")  
 
 
