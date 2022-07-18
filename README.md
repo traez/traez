@@ -10,6 +10,9 @@ I'm actively building my portfolio, and below are some of the projects I've work
 **2) qr-code-component-main Page; My 1st attempted challenge on frontendmentor.io**  
 [https://traez.github.io/qr-code-component-main/](https://traez.github.io/qr-code-component-main/ "qr-code-component-main Page")  
 
+**3) product-preview-card-component-main Page; My 2nd attempted challenge on frontendmentor.io**  
+[https://traez.github.io/product-preview-card-component-main/](https://traez.github.io/product-preview-card-component-main/ "product-preview-card-component-main") 
+
 
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
