@@ -13,6 +13,8 @@ I'm actively building my portfolio, and below are some of the projects I've work
 **3) product-preview-card-component-main Page; My 2nd attempted challenge on frontendmentor.io**  
 [https://traez.github.io/product-preview-card-component-main/](https://traez.github.io/product-preview-card-component-main/ "product-preview-card-component-main") 
 
+**4) nft-preview-card-component-main Page; My 3rd attempted challenge on frontendmentor.io**  
+[https://traez.github.io/nft-preview-card-component-main/](https://traez.github.io/nft-preview-card-component-main/ "nft-preview-card-component-main") 
 
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
