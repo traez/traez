@@ -16,7 +16,7 @@ I'm actively building my portfolio, and below are some of the projects I've work
 **4) nft-preview-card-component-main Page; My 3rd attempted challenge on frontendmentor.io**  
 [https://traez.github.io/nft-preview-card-component-main/](https://traez.github.io/nft-preview-card-component-main/ "nft-preview-card-component-main") 
 
-**5) order-summary-component-main; My 4th attempted challenge on frontendmentor.io**  
+**5) order-summary-component-main Page; My 4th attempted challenge on frontendmentor.io**  
 [https://traez.github.io/order-summary-component-main/](https://traez.github.io/order-summary-component-main/ "order-summary-component-main")  
 
 <!--
