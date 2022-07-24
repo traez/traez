@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.  
 I’m attempting a transition to Tech. A career in Web Development to be particular.  
-I'm actively building my portfolio, please check this link [https://github.com/stars/traez/lists/frontendmentor-io](https://github.com/stars/traez/lists/frontendmentor-io "frontendmentor.io soutions") for some of the projects I've worked on.
+I'm actively building my portfolio, please check this link [**frontendmentor.io soutions**](https://github.com/stars/traez/lists/frontendmentor-io) for some of the projects I've worked on.
 
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
