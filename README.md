@@ -2,7 +2,7 @@
 
 - 🔭 Welcome to my GitHub profile.  
 - 🌱 From a background in Sales I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
-- 👯 **freecodecamp.org** with support from **codecademy.com** have been my primary learning sources.  
+- 👯 **freecodecamp.org** with support from **codecademy.com** and **theodinproject.com** have been my primary learning sources.  
 - 📫 While I'm also now actively building projects for my portfolio with frontendmentor.io [**frontendmentor.io soutions**](https://github.com/stars/traez/lists/frontendmentor-io-html-and-css)  
 - 💬 To reach me please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) 
 
