@@ -4,8 +4,8 @@
 - 🌱 From a background in Sales I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
 - 👯 **freecodecamp.org** with support from **codecademy.com** and **theodinproject.com** have been my primary learning sources.  
 - 📫 While I'm also now actively building projects for my portfolio. Please see below:  
-  - ⚡ [**frontendmentor.io soutions**](https://github.com/stars/traez/lists/frontendmentor-io-html-and-css)  
-  - ⚡ [**theodinproject.com projects**](https://github.com/stars/traez/lists/theodinproject-com-javascript)  
+  - ⚡ [**frontendmentor.io HTML/CSS soutions**](https://github.com/stars/traez/lists/frontendmentor-io-html-and-css)  
+  - ⚡ [**frontendmentor.io JavaScript soutions**](https://github.com/stars/traez/lists/frontendmentor-io-javascript)  
 - 💬 To reach me please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) 
 
 <!--
