@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Welcome to my GitHub profile.  
-- 🌱 From a background in Sales, I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
+- 🧐 From a background in Sales, I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
 - 👯 I've been learning to code from a plethora of resources, with interesting results. 
+- 💪 The languages and tools I have utilize and am familiar with so far include: HTML · CSS · JavaScript · Regex · JSON · React · Git · Python
 - 👀 My most noticaeble works can be seen in the link below:  
   - ⚡ [**JavaScript project soutions**](https://github.com/stars/traez/lists/javascript-project-soutions)  
 - 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) 
