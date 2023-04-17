@@ -7,7 +7,7 @@
 - 👀 My most noticaeble works can be seen in the link below:  
   - ⚡ [**JavaScript project soutions**](https://github.com/stars/traez/lists/javascript-project-soutions)  
   - ⚡ [**React project soutions**](https://github.com/stars/traez/lists/react-project-soutions)  
-- 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [an email](mailto:traezeokafor@gmail.com)
+- 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
 
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
