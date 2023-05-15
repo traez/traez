@@ -4,7 +4,13 @@
 - 🧐 From a background in Sales, I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
 - 👯 I've been learning to code from a plethora of resources, with interesting results. 
 - 💪 The languages and tools I have utilized and am familiar with so far include:  
-  - 🪲 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python
+  - 💡 **Frontend Development:** HTML · CSS · JavaScript · React · React Router   
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python  
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python  
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python
+  - 💡 HTML · CSS · JavaScript · Regex · JSON · React · Git · Python 
 - 👀 My most noticaeble works can be seen in the link below:  
   - ⚡ [**JavaScript project soutions**](https://github.com/stars/traez/lists/javascript-project-soutions)  
   - ⚡ [**React project soutions**](https://github.com/stars/traez/lists/react-project-soutions)  
