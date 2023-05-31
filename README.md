@@ -7,7 +7,8 @@
   - 💡 **Languages:** HTML · CSS · JavaScript     
   - 💡 **Frameworks:** React · Next.js  
   - 💡 **Tools:** Git  
-  - 💡 **Learning In-View:** Technical Writing · GraphQL · Typescript · WordPress (PHP and MySQL)  
+  - 💡 **Others:** Technical Writing · Chess  
+  - 💡 **Learning In-View:** GraphQL · Typescript · WordPress (PHP and MySQL)  
 - 👀 My most noticeable works can be seen in the link below:  
   - ⚡ [**JavaScript project soutions**](https://github.com/stars/traez/lists/javascript-project-soutions)  
   - ⚡ [**React project soutions**](https://github.com/stars/traez/lists/react-project-soutions)  
