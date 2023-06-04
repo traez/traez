@@ -9,9 +9,7 @@
   - 💡 **Tools:** Git  
   - 💡 **Others:** Technical Writing · Chess  
   - 💡 **Learning In-View:** GraphQL · Typescript · WordPress (PHP and MySQL)  
-- 👀 My most noticeable works can be seen in the link below:  
-  - ⚡ [**JavaScript project soutions**](https://github.com/stars/traez/lists/javascript-project-soutions)  
-  - ⚡ [**React project soutions**](https://github.com/stars/traez/lists/react-project-soutions)  
+- 👀 My body of work, categorized by use case, can be seen by clicking the Stars link above ⚡ [**or here**](https://github.com/traez?tab=stars)  
 - 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
 
 <!--
