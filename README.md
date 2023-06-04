@@ -9,7 +9,7 @@
   - 💡 **Tools:** Git  
   - 💡 **Others:** Technical Writing · Chess  
   - 💡 **Learning In-View:** GraphQL · Typescript · WordPress (PHP and MySQL)  
-- 👀 My **body of work** are in my [**Repositories**](https://github.com/traez?tab=repositories). While the wider collection of my code interests can be see categorized when you click the [**Stars link**](https://github.com/traez?tab=stars)  
+- 👀 My **body of work** are in my [**Repositories**](https://github.com/traez?tab=repositories). While the wider collection of my code interests can be seen categorized when you click the [**Stars link**](https://github.com/traez?tab=stars)  
 - ⚡ For recruiters though, my most notable projects are all contained in [**my Portfolio**](https://github.com/stars/traez/lists/portfolio)  
 - 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
 
