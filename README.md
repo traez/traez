@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hi there** 👋
 
 - 🔭 Welcome to my GitHub profile.  
 - 🧐 From a background in Sales, I’m attempting a transition to Tech (A career in Web Development {Front End} to be particular).  
