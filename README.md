@@ -9,7 +9,7 @@
   - 💡 **Databases:** MongoDB
   - 💡 **Tools:** Git
   - 💡 **Professional Engagements:** Technical Writing · Open Source Contributions     
-- ⚡ For recruiters, the most notable projects from my **body of work** are accesible via the [**my Portfolio**](https://github.com/stars/traez/lists/portfolio) link.  
+- ⚡ For recruiters, [**click here**](https://github.com/traez?tab=stars) for a curated list of my best works (my Portfolio).  
 - 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
 
 <!--
