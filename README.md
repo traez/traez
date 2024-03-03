@@ -6,8 +6,9 @@
 - 💪 My current skill set is as follows:  
   - 💡 **Languages:** HTML · CSS · JavaScript · Typescript · Node.js       
   - 💡 **Frameworks:** Tailwind CSS · React · Next.js · Expressjs  
-  - 💡 **Databases:** MongoDB
-  - 💡 **Tools:** Git
+  - 💡 **Databases:** MongoDB  
+  - 💡 **Tools:** Git  
+  - 💡 **Additional:** GraphQL  
   - 💡 **Professional Engagements:** Technical Writing · Open Source Contributions     
 - ⚡ For recruiters, [**click here**](https://github.com/traez?tab=stars) for a curated list of my best works (my Portfolio).  
 - 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
