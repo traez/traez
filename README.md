@@ -5,7 +5,7 @@
 - 👯 I've been learning to code from a plethora of resources, with interesting results. 
 - 💪 My current skill set is as follows:  
   - 💡 **Languages:** HTML · CSS · JavaScript · Typescript · Node.js       
-  - 💡 **Frameworks:** Tailwind CSS · React · Next.js · Expressjs  
+  - 💡 **Frameworks:** Tailwind CSS · React · React Native · Next.js · Expressjs  
   - 💡 **Databases:** MongoDB  
   - 💡 **Tools:** Git  
   - 💡 **Additional:** GraphQL  
