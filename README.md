@@ -5,7 +5,7 @@
 - 👯 I've been learning to code from a plethora of resources, with interesting results. 
 - 💪 My current skill set is as follows:  
   - 💡 **Languages:** HTML · CSS · JavaScript · Typescript         
-  - 💡 **Frameworks and Libraries:** Tailwind CSS · React · Nextjs · Expressjs · Redux Toolkit
+  - 💡 **Frameworks and Libraries:** Tailwind CSS · Bootstrap · React · Nextjs · Expressjs · Redux Toolkit
   - 💡 **Tools and Technologies:** Git · Nodejs · MongoDB · Testing · GraphQL
   - 💡 **Professional Engagements:** Technical Writing · Open Source Contributions     
 - ⚡ For recruiters, [**click here**](https://github.com/stars/traez/lists/portfolio) for a curated list of my best works (my Portfolio).  
