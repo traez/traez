@@ -8,8 +8,8 @@
   - 💡 **Frameworks and Libraries:** Tailwind CSS · Bootstrap · Shadcn-UI · React · Nextjs · Expressjs · Redux Toolkit
   - 💡 **Tools and Technologies:** Git · Nodejs · MongoDB · Testing · GraphQL
   - 💡 **Professional Engagements:** Technical Writing · Open Source Contributions     
-- ⚡ For recruiters, [**click here**](https://github.com/stars/traez/lists/portfolio) for a curated list of my best works (my Portfolio).  
-- 💬 If you'd like to reach me, please feel free to send me a DM on twitter [**@trae_z**](https://twitter.com/trae_z) or [**an email**](mailto:traezeokafor@gmail.com)
+- ⚡ For recruiters, please see my portfolio website for a wholistic professional representation of me: [**click here**](https://zeeofortech.vercel.app/) .  
+- 💬 If you'd like to reach me, please feel free to send me [**an email**](mailto:traezeokafor@gmail.com)
 
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
