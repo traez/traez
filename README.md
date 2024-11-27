@@ -6,6 +6,8 @@
 - ⚡ For recruiters, please see my portfolio website for a wholistic professional representation of me: [**click here**](https://zeeofortech.vercel.app/) .  
 - 💬 If you'd like to reach me, please feel free to send me [**an email**](mailto:traezeokafor@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traez&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **traez/traez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
